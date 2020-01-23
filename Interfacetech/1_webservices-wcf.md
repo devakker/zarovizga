@@ -10,7 +10,7 @@ A webszolgáltatás (angolul webservice) **alkalmazások közötti adatcserére 
 
 Klasszikus értelemben a webszolgáltatás egy rendszer aminek a segítségével szoftverek tudnak interakcióba lépni egy hálózaton keresztül.
 
-![](Interfacetech/webservice-classic.png)
+![](/Interfacetech/webservice-classic.png)
 
 * **(Service) Transport Protocol**: responsible for transporting messages between network applications, e.g. HTTP.
 * **(XML) Messaging Protocol**: encodes information into a common XML format, e.g. SOAP.
