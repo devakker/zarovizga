@@ -92,3 +92,7 @@ A rendszer válaszának adott időpontbeli értéke nem függ a gerjesztés jöv
 ### GV-stabil
 
 Bármely korlátos gerjesztésre korlátos választ ad. (bibo)
+
+## Válasz összetevők
+
+![](2020-01-30-00-51-07.png)
